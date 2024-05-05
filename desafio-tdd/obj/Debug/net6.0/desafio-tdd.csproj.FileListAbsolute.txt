@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\bin\Debug\net6.0\desafio-tdd.exe
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\bin\Debug\net6.0\desafio-tdd.deps.json
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\bin\Debug\net6.0\desafio-tdd.runtimeconfig.json
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\bin\Debug\net6.0\desafio-tdd.dll
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\bin\Debug\net6.0\desafio-tdd.pdb
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\desafio-tdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\desafio-tdd.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\desafio-tdd.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\desafio-tdd.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\desafio-tdd.dll
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\refint\desafio-tdd.dll
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\desafio-tdd.pdb
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\desafio-tdd.genruntimeconfig.cache
+C:\Users\vinic\Desktop\Projects\DIO\CSharp\desafio-tdd\desafio-tdd\obj\Debug\net6.0\ref\desafio-tdd.dll
